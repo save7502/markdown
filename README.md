@@ -86,12 +86,12 @@ $ git commit -m 'Study Markdown'
 
 # 표(Table)
 position 속성
-값 | 의미 | 기본값
---|:--:|--:
-static | 기준없음 | O
-relative | 요소자신 | X
-absolute | 위치 상 부모요소 | X
-fixed | 뷰포트 | X
+| 값 | 의미 | 기본값 |  
+| -- | :--: | --: |  
+| static | 기준없음 | O |  
+| relative | 요소자신 | X |  
+| absolute | 위치 상 부모요소 | X |  
+| fixed | 뷰포트 | X |  
 
 # 원시 HTML(Raw HTML)
 <u>동해물</u>과 <span style="text-decoration: 
